@@ -10,20 +10,20 @@
 
 ## MỤC ẢNH KẾT QUẢ CHỨC NĂNG
 ### 1. Màn hình Chính / Tổng quan hệ thống:
-![Màn hình chính](screenshots/UI.png)
+![Màn hình chính](images/UI.png)
 
 ### 2. Màn hình Quản lý Danh mục (CRUD - Thêm/Sửa/Xóa):
-![Màn hình CRUD](screenshots/CRUD1.png)
-![Màn hình CRUD](screenshots/CRUD2.png)
-![Màn hình CRUD](screenshots/CRUD3.png)
-![Màn hình CRUD](screenshots/CRUD4.png)
-![Màn hình CRUD](screenshots/CRUD5.png)
+![Màn hình CRUD](images/CRUD1.png)
+![Màn hình CRUD](images/CRUD2.png)
+![Màn hình CRUD](images/CRUD3.png)
+![Màn hình CRUD](images/CRUD4.png)
+![Màn hình CRUD](images/CRUD5.png)
 
 ### 3. Màn hình Thực thi Nghiệp vụ chính (Lập Hóa đơn / Bán hàng / Chấm công / Đặt phòng):
-![Màn hình Nghiệp vụ](screenshots/Tran.png)
+![Màn hình Nghiệp vụ](images/Tran.png)
 
 ### 4. Màn hình Báo cáo - Thống kê:
-![Màn hình Thống kê](screenshots/Report.png)
+![Màn hình Thống kê](images/Report.png)
 
 ### 5. Minh họa An toàn Dữ liệu (Phòng chống SQL Injection / Báo lỗi Transaction Rollback):
-![Minh họa Xử lý lỗi](screenshots/Error.png)
+![Minh họa Xử lý lỗi](images/Error.png)
